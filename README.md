@@ -1,6 +1,6 @@
 # gas-demodulify-plugin
 
-## sadfu
+
 ## Table of Contents
 
 <!-- TOC:START -->
