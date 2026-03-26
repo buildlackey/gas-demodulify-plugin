@@ -4,7 +4,6 @@
 
 <!-- TOC:START -->
 - [gas-demodulify-plugin](#gas-demodulify-plugin)
-  - [sadfu](#sadfu)
   - [Table of Contents](#table-of-contents)
   - [Plugin Overview](#plugin-overview)
   - [Support for Modern Architectures Comprised of Subsystems](#support-for-modern-architectures-comprised-of-subsystems)
