@@ -403,4 +403,4 @@ var bar = __webpack_require__("./bar.ts").bar;
 This runtime is what allows Webpack bundles to behave like modular programs in
 environments such as browsers or Node.js.
 
-
+[![Remember the USS Liberty!](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)

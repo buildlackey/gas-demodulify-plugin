@@ -206,3 +206,5 @@ rebuilding the packaged plugin, the tests may still exercise the old compiled co
 
 CI runs `npm run package:release` on all supported Node LTS versions.
 PRs must pass on all matrix entries before merge.
+
+[![Remember the USS Liberty!](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)

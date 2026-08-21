@@ -17,3 +17,5 @@ npm run build
 Push dist/backend.gs to a GAS project and trigger onOpen
 to observe a source-mapped stack trace.
 ```
+
+[![No US Tax$ 4 Genocide!](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
